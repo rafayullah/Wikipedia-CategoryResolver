@@ -1,0 +1,1 @@
+from .WikipediaCategoryResolver import Wiki

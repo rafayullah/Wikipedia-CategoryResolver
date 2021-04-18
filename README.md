@@ -42,9 +42,9 @@ See the Usage.ipynb for more details
 
 ## Results
 * Output of single category resolution:
-![Image 1](WCR Category.png)
+![Image 1](images/WCR Category.png)
 * Finding common attributes between multiple entities:
-![Image 2](WCR Similarity.png)
+![Image 2](images/WCR Similarity.png)
 
 
 ## Authors
