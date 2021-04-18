@@ -42,9 +42,9 @@ See the Usage.ipynb for more details
 
 ## Results
 * Output of single category resolution:
-![Image 1](images/WCR Category.png)
+![Image 1](https://github.com/rafayullah/Wikipedia-CategoryResolver/blob/main/images/WCR%20Category.png?raw=true)
 * Finding common attributes between multiple entities:
-![Image 2](images/WCR Similarity.png)
+![Image 2](https://github.com/rafayullah/Wikipedia-CategoryResolver/blob/main/images/WCR%20Similarity.png?raw=true)
 
 
 ## Authors
