@@ -13,7 +13,7 @@ https://en.wikipedia.org/wiki/IBM
 While navigating, the bottom of the webpage has a section of categories the searched entity belongs to. This is what now you can fetch programmatically using this project.
 
 ## Setup
-* The project is available as a Python Package at [PyPi - Wikipedia Category Resolver] (https://pypi.org/project/WikipediaCategoryResolver/)
+* The project is available as a Python Package at [PyPi - Wikipedia Category Resolver](https://pypi.org/project/WikipediaCategoryResolver/)
 ```
 pip install WikipediaCategoryResolver
 ```
